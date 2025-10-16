@@ -78,7 +78,7 @@ export default function FestivalTickets() {
 
             <p className="text-xl text-gray-300 leading-relaxed">
               Join us for an unforgettable night of music, entertainment, and
-              starlit memories. Zambia's premier music festival featuring
+              starlit memories. Zambia&apos;s premier music festival featuring
               international artists and local talent.
             </p>
 
