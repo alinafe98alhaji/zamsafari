@@ -78,13 +78,13 @@ export default function AboutPage() {
     {
       quote:
         "ZamSafari is a once-in-a-generation project. It will not only put Zambia into the Guinness World Records but will also redefine Africa's place in global tourism and smart city development.",
-      author: "Dr. Jacob L. Lushinga, Group Chairman",
+      author: "Jonette .H. Coetzee, Chief Executive Officer",
       role: "Visionary Leadership"
     },
     {
       quote:
         "With secured land, international SPV structures, and banking in Zambia and the U.S., this project is designed for transparency and global participation.",
-      author: "Dr. R.D. White, Vice Chairman",
+      author: "Dr. R.D. White, Chairman",
       role: "Strategic Oversight"
     },
     {
